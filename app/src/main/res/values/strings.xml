@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab3_UI</string>
+    <string name="custom_dialog_test">customDialogTest</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">SignIn</string>
+    <string name="cancel">Cancel</string>
+    <string name="textView_test">Text test.</string>
+    <string name="menu_Font">Font</string>
+    <string name="menu_Normal">menu</string>
+    <string name="menu_Color">Color</string>
+    <string name="menu_font_small">small</string>
+    <string name="menu_font_middle">middle</string>
+    <string name="menu_font_big">big</string>
+    <string name="menu_color_red">red</string>
+    <string name="menu_color_blue">blue</string>
+    <string name="menu_color_black">black</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
